@@ -94,4 +94,4 @@ SCT_CS_1/
 
 ## Developed By
 
-Cybersecurity Intern — Task 1 | [SkillCraft Technology](https://www.skillcrafttechnology.com)
+Cybersecurity Intern — Task 1 | [SkillCraft Technology](https://www.skillcrafttech.com)
